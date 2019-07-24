@@ -1,0 +1,10 @@
+1. Date&Time: Sat Feb  2 16:15:51 2019
+Current Function:int main()| Line 25 | Type: Etc. | Description: Asking for user input.
+2. Date&Time: Sat Feb  2 16:15:51 2019
+Current Function:int main()| Line 28 | Type: Etc. | Description: Calculating user input.
+3. Date&Time: Sat Feb  2 16:15:51 2019
+Current Function:int main()| Line 31 | Type: Etc. | Description: Printing out answer.
+4. Date&Time: Sat Feb  2 16:16:01 2019
+Current Function:int main()| Line 33 | Type: Warning | Description: Dividing by zero will crash program.
+5. Date&Time: Sat Feb  2 16:16:01 2019
+Current Function:int main()| Line 34 | Type: Error | Description: Program crashing, flush last write to txt.
